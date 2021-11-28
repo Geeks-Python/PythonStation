@@ -28,23 +28,11 @@ window = tk.Tk()
 #         label.pack()
 
 
-<<<<<<< HEAD
-# def runApps():
-#     car_racing = CarRacing()
-#     app = []
-#     os.startfile(app)
-
 
 def runApps():
     apps = [r"C:\Users\STUDENT\Desktop\PythonStation\Car_Game\Game_code\car_game.exe"]
     for app  in apps:
         os.startfile(app)
-=======
-def runApps():
-    car_racing = CarRacing()
-    app = car_racing.racing_window()
-    os.startfile(app)
->>>>>>> 1dc94b0be05c607170f70450ce8b6703607ca812
 
 
 
