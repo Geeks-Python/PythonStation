@@ -28,11 +28,11 @@ window = tk.Tk()
 #         label.pack()
 
 
-
 def runApps():
     apps = [r"C:\Users\STUDENT\Desktop\PythonStation\Car_Game\Game_code\car_game.exe"]
     for app  in apps:
         os.startfile(app)
+
 
 
 
