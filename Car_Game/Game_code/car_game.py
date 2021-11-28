@@ -23,8 +23,11 @@ class CarRacing:
         self.car_width = 49
 
         self.enemy = pygame.image.load("img/selver_car.png")
+        self.enemy2 = pygame.image.load("img/blue_car.png")
         self.enemy_x_co = random.randrange(230, 510)
         self.enemy_y_co = 0-random.randrange(10, 600)
+        self.enemy2_x_co = random.randrange(230, 510)
+        self.enemy2_y_co = 0 - random.randrange(10, 600)
         self.enemy_speed = 5
         self.enemy_width = 49
         self.enemy_hieght = 100
@@ -52,6 +55,9 @@ class CarRacing:
                     self.crashed = True
 
                 if (event.type == pygame.KEYDOWN):
+
+                    if event.key == ord('q'):
+                        self.crashed=True
                     if event.key == pygame.K_LEFT or event.key == ord('a'):
                         self.car_x_co -= 50
                     if event.key == pygame.K_RIGHT or event.key == ord('d'):
@@ -61,10 +67,16 @@ class CarRacing:
             self.back_ground_road()
             self.run_enemy_car(self.enemy, self.enemy_x_co, self.enemy_y_co)
             self.enemy_y_co += self.enemy_speed
+            self.run_enemy_car(self.enemy2, self.enemy2_x_co, self.enemy2_y_co)
+            self.enemy2_y_co += self.enemy_speed
 
             if self.enemy_y_co > self.display_height:
                 self.enemy_y_co = 0 - self.enemy_hieght
                 self.enemy_x_co = random.randrange(230, 510)
+
+            if self.enemy2_y_co > self.display_height:
+                self.enemy2_y_co = 0 - self.enemy_hieght
+                self.enemy2_x_co = random.randrange(230, 510)
 
             self.car(self.car_x_co, self.car_y_co)
             self.highscore(self.count)
@@ -76,13 +88,29 @@ class CarRacing:
 
             if self.car_y_co < self.enemy_y_co + self.enemy_hieght - 2:
                 if self.car_x_co > self.enemy_x_co - self.enemy_width + 5 and self.car_x_co < self.enemy_x_co + self.enemy_width - 5:
+                    self.display_message("Game Over")
                     self.crashed = True
-
+            if self.car_y_co < self.enemy2_y_co + self.enemy_hieght - 2:
+                if self.car_x_co > self.enemy2_x_co - self.enemy_width + 5 and self.car_x_co < self.enemy2_x_co + self.enemy_width - 5:
+                    self.display_message("Game Over")
+                    self.crashed = True
             if self.car_x_co < 230 or self.car_x_co > 510:
+                self.display_message("Game Over")
                 self.crashed = True
 
             pygame.display.update()
             self.clock.tick(60)
+
+    def display_message(self, msg):
+        font = pygame.font.SysFont("Times New Roman", 70, True)
+        text = font.render(msg, True, self.white)
+        self.gameDisplay.blit(text, (400 - text.get_width() // 2, 240 - text.get_height()))
+        self.display_credit()
+        pygame.display.update()
+        self.clock.tick(60)
+        sleep(1)
+        car_racing.intialize()
+        car_racing.racing_window()
 
     def back_ground_road(self):
         self.gameDisplay.blit(self.bgImg, (self.bg_x1, self.bg_y1))
@@ -108,10 +136,10 @@ class CarRacing:
         font = pygame.font.SysFont("Times New Roman", 14)
         text = font.render('thanks for playing', True, self.white)
         self.gameDisplay.blit(text, (600, 500))
-        text = font.render("Yousef Alramli", True, self.white)
-        self.gameDisplay.blit(text, (600, 500))
-
-
+        text = font.render("Python Geeks", True, self.white)
+        self.gameDisplay.blit(text, (600, 550))
+        text = font.render(f'Your score is : {self.count}', True, self.white)
+        self.gameDisplay.blit(text, (600, 525))
 if __name__ == "__main__":
     car_racing = CarRacing()
     car_racing.racing_window()
