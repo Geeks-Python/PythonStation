@@ -5,7 +5,7 @@ import PIL.ImageTk as ptk
 from tkinter import filedialog,Text
 from tkinter import PhotoImage
 import os
-
+from Car_Game.Game_code.car_game import CarRacing
 window = tk.Tk()
 
 
@@ -29,9 +29,9 @@ window = tk.Tk()
 
 
 def runApps():
-    apps = [r"C:\Users\STUDENT\Desktop\game\car-race-python-game-master\car-race-python-game-master\game.jpg",r"C:\Users\STUDENT\Desktop\game\car-race-python-game-master\car-race-python-game-master\online-games.jpg"]
-    for app  in apps:
-        os.startfile(app)
+    car_racing = CarRacing()
+    app = car_racing.racing_window()
+    os.startfile(app)
 
 CANVAS= tk.Canvas(window,height = 600,width = 600,bg = "#263D62")
 CANVAS.pack()
