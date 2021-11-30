@@ -8,16 +8,10 @@ import os
 
 window = tk.Tk()
 
-
-
-
-
 def runApps():
     apps = [r"C:\Users\samki\PycharmProjects\PythonStation\Car_Game\Game_code\car_game.exe",r"C:\Users\samki\PycharmProjects\PythonStation\controller\controller.pyw"]
     for app  in apps:
         os.startfile(app)
-
-
 
 
 CANVAS = tk.Canvas(window, height=600, width=600, bg="#263D62")
