@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88af88f0-6f96-48d3-8956-27e2b02eb0a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/media/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/media/sample1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/media/sample2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/media/sample3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subway controller/media/sample4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/tkinter_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/tkinter_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car controller/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car controller/color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car controller/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/controller.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car controller/controller.pyw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/directkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car controller/directkeys.py" afterDir="false" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="19f5639a-8cb7-4af6-8718-0c592a8539ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Car_Game/Game_code/img/green-grass-top-view-background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/img/green-grass-top-view-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car_Game/Game_code/car_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car_Game/Game_code/car_game.py" afterDir="false" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="21b0mrfpFKBIh5DN9C12LcditFi" />
+=======
+  <component name="ProjectId" id="21b0TbOF5CSDR0pUUyQf4E0Dc4i" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="car_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Car_Game/Game_code/img" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\yousef\401class\projects\PythonStation\Car_Game\Game_code\img" />
+      <recent name="\\wsl$\Ubuntu\home\yousef\401class\projects\PythonStation\GUI\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.car_game">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonStation" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+<<<<<<< HEAD
+      <option name="SDK_HOME" value="C:\Users\rihan\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Car_Game/Game_code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+=======
+      <option name="SDK_HOME" value="C:\Users\Dell\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="car_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Car_Game/Game_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Car_Game/Game_code/car_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="controller.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStation" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+<<<<<<< HEAD
+      <option name="SDK_HOME" value="C:\Users\rihan\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller/car controller" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/car controller/controller.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rihan\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller/subway controller" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/subway controller/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rihan\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/tkinter_project.py" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/controller.py" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.car_game" />
+        <item itemvalue="Python.controller.pyw" />
+        <item itemvalue="Python.tkinter_project" />
+=======
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.car_game" />
+      <item itemvalue="Python.controller" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.car_game" />
+        <item itemvalue="Python.controller" />
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="88af88f0-6f96-48d3-8956-27e2b02eb0a6" name="Changes" comment="" />
+      <created>1638194648689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638194648689</updated>
+      <workItem from="1638194651796" duration="74000" />
+      <workItem from="1638194728262" duration="153000" />
+      <workItem from="1638194883935" duration="788000" />
+      <workItem from="1638196403178" duration="4143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonStation$tkinter_project.coverage" NAME="tkinter_project Coverage Results" MODIFIED="1638194912886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PythonStation$car_game.coverage" NAME="car_game Coverage Results" MODIFIED="1638204927095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car_Game/Game_code" />
+    <SUITE FILE_PATH="coverage/PythonStation$controller_pyw.coverage" NAME="controller.pyw Coverage Results" MODIFIED="1638204822295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/car controller" />
+    <SUITE FILE_PATH="coverage/PythonStation$main.coverage" NAME="main Coverage Results" MODIFIED="1638205039980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/subway controller" />
+=======
+      <changelist id="19f5639a-8cb7-4af6-8718-0c592a8539ec" name="Changes" comment="" />
+      <created>1638194488051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638194488051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 56e800aeaf17c5cbdeabdf1bc984490504751ba2
+  </component>
+</project>
